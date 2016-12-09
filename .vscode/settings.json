@@ -14,6 +14,8 @@
     "**/.DS_Store": true,
     "node_modules/**": true,
     "**/*.js.map": true,
+    "src/**/*.js": true,
+    "test/**/*.js": true,
     "build/**": true
   },
   "jscs.enable": false,
